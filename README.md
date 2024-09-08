@@ -1,6 +1,6 @@
 # portfolio
 
-###education
+### Work experience
 ma graphic media design
 
 ### Work experience
